@@ -1,0 +1,7 @@
+{
+  "name": "SoGlam' Beauty Bar Versailles",
+  "description": "Institut de beauté & bar à ongles d'exception au cœur de Versailles. Manucure russe, extensions de cils, soins visage Skin Expert et lifting colombien. Réservation 24/7 sur Planity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
